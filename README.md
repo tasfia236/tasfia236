@@ -45,5 +45,5 @@ I'm a web developer with a passion for open-source projects and collaborative co
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasfia236&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasfia236&layout=compact&theme=dark" alt="Top Languages">
 </div>
