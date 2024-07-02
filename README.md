@@ -34,14 +34,12 @@ I'm a web developer with a passion for open-source projects and collaborative co
 </p>
 
 
-
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasfia236&theme=dark" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=tasfia236&show_icons=true&theme=dark" alt="GitHub Stats">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tasfia236&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasfia236&theme=dark" alt="GitHub Streak Stats">
 </div>
 
 <div align="center">
