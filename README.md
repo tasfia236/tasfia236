@@ -47,14 +47,3 @@ I'm a web developer with a passion for open-source projects and collaborative co
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasfia236&layout=compact&theme=radical" alt="Top Languages">
 </div>
-
-
-
-
-## Top Repositories
-<a href="https://github.com/tasfia236/TravelTourism">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=TravelTourism&theme=dark" />
-</a>
-<a href="https://github.com/tasfia236/repository-two">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repository-two&theme=dark" />
-</a>
